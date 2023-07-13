@@ -2,12 +2,18 @@
 
 **Las Vegas for Locals**
 
-A place where user can make suggestions to fellow locals about food, . Users can express their expirences in a  review form by, naming the location, giving a star rating out of 5 and writing a short comment. 
+A place where users can make suggestions to fellow locals about food(restaurants), adventure(outdoor locations), shopping(stores), historical(museums) and nightlife(clubs). Users can express their experiences in a  review form by naming the location, giving a star rating out of 5 and writing a short comment. 
 ---
 Sources
 *
-
+PERN Full Stack App
 https://www.youtube.com/watch?v=fBcqjYfVCdY&t=71s 
+React
+https://legacy.reactjs.org/docs/create-a-new-react-app.html
+Axios
+https://axios-http.com/docs/intro
+Inspiration  
+https://www.vegas4locals.com/resources/
 ---
 License
 ---
