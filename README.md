@@ -8,12 +8,16 @@ Sources
 
 PERN Full Stack App
 https://www.youtube.com/watch?v=fBcqjYfVCdY&t=71s 
+
 React
 https://legacy.reactjs.org/docs/create-a-new-react-app.html
+
 Axios
 https://axios-http.com/docs/intro
+
 Inspiration  
 https://www.vegas4locals.com/resources/
+
 ---
 License
 ---
