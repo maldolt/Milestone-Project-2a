@@ -5,7 +5,7 @@
 A place where users can make suggestions to fellow locals about food(restaurants), adventure(outdoor locations), shopping(stores), historical(museums) and nightlife(clubs). Users can express their experiences in a  review form by naming the location, giving a star rating out of 5 and writing a short comment. 
 ---
 Sources
-*
+
 PERN Full Stack App
 https://www.youtube.com/watch?v=fBcqjYfVCdY&t=71s 
 React
