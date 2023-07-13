@@ -1,7 +1,13 @@
 # Milestone-Project-2a
 ---
 **Las Vegas for Locals**
-
+-
+A place where user can make suggestions to fellow locals about food, . Users can express their expirences in a  review form by, naming the location, giving a star rating out of 5 and writing a short comment. 
+---
+Resources used
+-
+https://www.youtube.com/watch?v=fBcqjYfVCdY&t=71s 
+---
 License
 ---
 The MIT License (MIT)
